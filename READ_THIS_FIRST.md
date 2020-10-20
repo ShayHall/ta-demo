@@ -1,7 +1,7 @@
 <table>
    <thead>
       <tr>
-         <th colSpan="2">DB2App-1_war.ear</th>
+         <th colSpan="2">MSSQLApp-1_war.ear</th>
       </tr>
    </thead>
   <tbody>
